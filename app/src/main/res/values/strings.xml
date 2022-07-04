@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">kotlin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="your_web_client_id">"17966654610-3s92kjq74rjhresf4aiiiffdf87su3gh.apps.googleusercontent.com "</string>
+
+
+    <string name="facebook_app_id">717604862784239</string>
+    <string name="fb_login_protocol_scheme">fb717604862784239</string>
+    <string name="facebook_client_token">473e653e0897164cf3da9d75305c2764</string>
+
+
+    <string name="resend_otp_again"><u>Resend OTP</u></string>
+    <string name="no_internet_connection">no internet connection</string>
+
+
+</resources>

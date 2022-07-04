@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/drawable-v24/baseline_play_circle_24.xml" value="0.1225" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/drawable/btn_bg.xml" value="0.1245" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/drawable/clickable_text_back.xml" value="0.1305" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/drawable/custom_button.xml" value="0.1305" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1245" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.126" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/drawable/otp_numberbg.xml" value="0.1305" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/activity_drawer.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/apps_bar.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/design_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/fragment_app_billing.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/fragment_dash_board.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/fragment_home.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/fragment_login.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/fragment_login_with_email.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/fragment_otp_verify.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/fragment_sign_up.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/fragment_splash_screen.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/fragment_tab.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/layout/nav_header.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/menu/menu.xml" value="0.209375" />
+        <entry key="..\:/Users/Malik Hassan/AndroidStudioProjects/status/app/src/main/res/menu/menu_nav.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

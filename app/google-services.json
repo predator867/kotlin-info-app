@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "17966654610",
+    "project_id": "rental-bdd61",
+    "storage_bucket": "rental-bdd61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17966654610:android:e1918d7c074c596268324b",
+        "android_client_info": {
+          "package_name": "ar.tech.lab.status_downloader_for_whatsapp.status"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17966654610-3s92kjq74rjhresf4aiiiffdf87su3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1sQnuGAFKSQ4DYAHGMsmX6ESvLOSI6fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17966654610-3s92kjq74rjhresf4aiiiffdf87su3gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17966654610:android:ca613e5dc768152b68324b",
+        "android_client_info": {
+          "package_name": "com.enfotrix.rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17966654610-sukgmrahmvc8lgchlofeph5mitme9sib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.enfotrix.rental",
+            "certificate_hash": "b2a86aa8c595d5c52a1d4c6c453b9b2bb0b13e41"
+          }
+        },
+        {
+          "client_id": "17966654610-3s92kjq74rjhresf4aiiiffdf87su3gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1sQnuGAFKSQ4DYAHGMsmX6ESvLOSI6fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17966654610-3s92kjq74rjhresf4aiiiffdf87su3gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
